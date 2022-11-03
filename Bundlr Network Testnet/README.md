@@ -202,17 +202,7 @@ docker-compose -f $HOME/validator-rust/docker-compose.yml logs -f --tail 10
 * Amount staked 2500 yapıp approve diyin, görselde ki gibi bir ekran çıkıcak
 * Böyle dönüp duruyor saatlerce, dökümasyonda yok ben ekliyim dedim belki işe yarar :))
 
-# Hesaplar:
 
-[<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="16px"> Twitter   ](https://twitter.com/Ruesandora0) 
-
-[<img src="https://cdn-icons-png.flaticon.com/512/1336/1336494.png" width="16px"> Forum   ](https://forum.rues.info/index.php)
-
-[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="16px"> Telegram Announcement   ](https://t.me/RuesAnnouncement)
-
-[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="16px"> Telegram Chat   ](https://t.me/RuesChat)
-
-[Discord](https://discord.gg/ruescommunity)
 
 
 
